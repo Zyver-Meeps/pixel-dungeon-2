@@ -1,7 +1,9 @@
-pixel-dungeon-gdx
+Pixel Dungeon 2!
 =================
 
-GDX port of the awesome [Pixel Dungeon](https://github.com/watabou/pixel-dungeon)
+[Pixel Dungeon](https://github.com/watabou/pixel-dungeon)
+
+
 
 Quickstart
 ----------
