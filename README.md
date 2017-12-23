@@ -1,7 +1,7 @@
 Pixel Dungeon 2!
 =================
 
-[Pixel Dungeon](https://github.com/watabou/pixel-dungeon)
+[Original Pixel Dungeon](https://github.com/watabou/pixel-dungeon)
 
 
 
